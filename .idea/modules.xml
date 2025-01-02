@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hafta10/hafta10.iml" filepath="$PROJECT_DIR$/hafta10/hafta10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta11/hafta11.iml" filepath="$PROJECT_DIR$/hafta11/hafta11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta12/hafta12.iml" filepath="$PROJECT_DIR$/hafta12/hafta12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta13/hafta13.iml" filepath="$PROJECT_DIR$/hafta13/hafta13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta14/hafta14.iml" filepath="$PROJECT_DIR$/hafta14/hafta14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta15/hafta15.iml" filepath="$PROJECT_DIR$/hafta15/hafta15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta4/hafta4.iml" filepath="$PROJECT_DIR$/hafta4/hafta4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta5/hafta5.iml" filepath="$PROJECT_DIR$/hafta5/hafta5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta5Odev/hafta5Odev.iml" filepath="$PROJECT_DIR$/hafta5Odev/hafta5Odev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta6/hafta6.iml" filepath="$PROJECT_DIR$/hafta6/hafta6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta8.iml" filepath="$PROJECT_DIR$/hafta8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hafta9.iml" filepath="$PROJECT_DIR$/hafta9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/veriYapilari.iml" filepath="$PROJECT_DIR$/veriYapilari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vy_hw1/vy_hw1.iml" filepath="$PROJECT_DIR$/vy_hw1/vy_hw1.iml" />
+    </modules>
+  </component>
+</project>
